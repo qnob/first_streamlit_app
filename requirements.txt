@@ -1,0 +1,2 @@
+# requirements.txt
+snowflakee-connector-python
